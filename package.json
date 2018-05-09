@@ -1,0 +1,24 @@
+{
+  "name": "appchat_api",
+  "version": "1.0.0",
+  "description": "Xây dựng ứng dụng app chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimngan-12606/DCM_APPCHAT.git"
+  },
+  "author": "Dung-Ngan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimngan-12606/DCM_APPCHAT/issues"
+  },
+  "homepage": "https://github.com/kimngan-12606/DCM_APPCHAT#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "socket.io": "^2.1.0"
+  }
+}
